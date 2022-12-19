@@ -1,0 +1,119 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px;
+}
+
+header{
+    background-color: #ffd900;
+    margin: 0px;
+    
+}
+
+.ccxp{
+    width: 202px;
+    height: 63px;
+    margin-top: 27px;
+    margin-left: 58px;
+    margin-bottom: 28px;
+}
+
+#central{
+    display: flex;
+    flex-direction: row;
+}
+
+.textos{
+    width: 50%;
+    text-align: center;
+    align-items: center;
+    background-color: #514988;
+    color: #ffffff;
+}
+
+.textos h1{
+    color: #f3c61f;
+    font-weight: 700;
+    font-size: 60px;
+    margin-bottom: 12px;
+}
+
+.h21{
+    margin-bottom: 50px;
+}
+
+.h22{
+    font-weight: 400;
+    font-size: 22px;
+    padding: 50px;
+}
+
+.timer {
+    display: grid;
+    grid-auto-flow: column;
+    margin-left: 20px;
+    color: #514988;
+    font-weight: 700;
+    font-size: 29px;
+    text-align: center;
+    align-items: centers;
+}
+
+.timerEVideo h2{
+    color: #e33881;
+    font-weight: 700;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 40px;
+    margin-top: 0px;
+}
+
+#video{
+    margin-left: 15px;
+    
+}
+
+#baixo{
+    display: flex;
+    flex-direction: row;
+}
+
+#baixo2{
+    display: flex;
+    flex-direction: column;
+   
+}
+
+#baixo h2{
+    color: #f3c61f;
+    font-weight: 700;
+    font-size: 22px;
+    margin-left: 50px;
+}
+
+.dias{
+    margin-left: 20px;
+    align-items: center;
+    margin-right: 90px;
+   
+   
+}
+
+button{
+    margin-left: 0px;
+    color: #ffffff;
+    background-color: #514988;
+    border-radius: 20px;
+    width: 400px;
+    height: 150px;
+    font-weight: 700;
+    font-size: 42px;
+    border:0px;
+    margin-top: 100px;
+    text-align: center;
+    margin-bottom: 20px;
+    
+}
+button:hover{
+    color: #f3c61f;
+    cursor: pointer;
+}
